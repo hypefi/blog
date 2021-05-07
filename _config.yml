@@ -8,7 +8,7 @@
 # Site settings
 title:       Type
 email:       'anasboukharta@gmail.com'
-description: 'Anas Boukharta Personal Blog, I share my ideas, and what I am thinking about repeatedly'
+description: 'Personal Blog, here is the place I share my ideas'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
 twitter:     'twitter.com/hypefi'
@@ -19,7 +19,7 @@ facebook:    ''
 markdown:  kramdown
 permalink: pretty
 paginate:  10
-
+baseurl: /blog/
 sass:
   style: compressed
 
