@@ -10,7 +10,8 @@ title:       Type
 email:       'anasboukharta@gmail.com'
 description: 'Personal Blog, here is the place I share my ideas'
 baseurl:     '/blog' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+#url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'https://hypefi.github.io/' # The base hostname & protocol for your site
 twitter:     'twitter.com/hypefi'
 github:      'github.com/hypefi'
 instagram:   ''
