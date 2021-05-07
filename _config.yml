@@ -45,4 +45,4 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /
+      permalink: /:basename:output_ext
