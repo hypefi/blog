@@ -8,11 +8,11 @@
 # Site settings
 title:       Type
 email:       'anasboukharta@gmail.com'
-description: ''
+description: 'Anas Boukharta Personal Blog, I share my ideas, and what I am thinking about repeatedly'
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
+twitter:     'twitter.com/hypefi'
+github:      'github.com/hypefi'
 instagram:   ''
 facebook:    ''
 
@@ -45,4 +45,4 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /
