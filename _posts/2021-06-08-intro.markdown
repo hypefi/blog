@@ -2,7 +2,6 @@
 layout: post
 title: yeah, blogging again
 tags: [Introduction]
-image: '/images/posts/1.jpg'
 ---
 
 This blog is added to the billions of already available blogs in the internet, yes, and maybe you may find some value here. Why not? 

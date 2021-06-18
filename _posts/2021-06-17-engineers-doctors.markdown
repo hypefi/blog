@@ -2,7 +2,6 @@
 layout: post
 title: We need more medical doctors that know about physics
 tags: [the doctor engineer]
-image: '/images/posts/1.jpg'
 ---
 
 - We need more medical practitioners that know about science and engineering, why ? Because right now the machines and electrification are taking over the world, and we need to have doctors that understand the impact of technology on our bodies, environment and ecosystems. 
