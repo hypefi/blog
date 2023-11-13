@@ -6,7 +6,7 @@ tags: [EMF][Health][Environment]
 
 We are in times where the use of wireless technology is widespread, we are also in times where new diseases are emerging or growing exponentially. To find a link of causation between the effect of technology on health is complicated, because first of all, we cannot subject people to high dosage of the technology in order to see if they are sick or not. The only way to do it is to examine the real world through statistics, and to find control group and the experimental group in the population. Another problem with that is that we may find correlation, but that this correlation is not really a correlation, it is just a randomness that looks like correlation. For example, you find more of certain kind of diseases linked to pollution in cities, but we cannot pinpoint which kind of pollution is the most responsible for it. This because the citizens are subject to all kinds of pollutants in the same time. This is increasing difficulty in finding a control group and an experimental group that satisfies the requirements of isolating the pollutant exposition. 
 
-The consequences of that is that knowing the impact of a single technology on the health of people when running widespread health experiments, or in other terms, exposing people to new technology without knowing its consequences on healh, poses the risk of truly having impacts on health without pinpointing that the technology introduced was bad for health. And that the increase of some disease are the result of some other issues, like stress or genes. 
+The consequences of that is that knowing the impact of a single technology on the health of people when running widespread health experiments, or in other terms, exposing people to new technology without knowing its consequences on health, poses the risk of truly having impacts on health without pinpointing that the technology introduced was bad for health. And that the increase of some disease are the result of some other issues, like stress or genes. 
 
 These consequences means that many product will have to stay a long time and do many harm before there risk is assessed and are dealt with through regulation and law. 
 
@@ -27,8 +27,8 @@ The world is limited in space and more pollutants cannot be escaped easily anymo
 
 ===
 
-Ethics ( bringing God vs money )
+<!-- Ethics ( bringing God vs money ) -->
 
-write down here
+<!-- write down here -->
 
 
