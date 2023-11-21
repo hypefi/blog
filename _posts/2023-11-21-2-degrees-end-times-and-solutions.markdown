@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2-degrees-and-solutions
-tags: [Environmentalism][Spirituality][Chaos][Order][Ecology][End Times]
+tags: [Environmentalism, Spirituality, Chaos, Order, Ecology]
 ---
 
 If you are following the climate news, well, let me be succinct. We are in big troubles, and I hate to say, I wish I could just live my life, surf in the beach, eat and sleep, and sometimes engage in intimate activities. But you know, this does not concern you, because you, you have AC; you live in a first-world country with access to the internet and so on. You are sheltered with the wealth you have amassed, and you feel powerful with all the gadgets and technology that surround you.
