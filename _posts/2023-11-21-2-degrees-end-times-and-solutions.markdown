@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2-degrees-and-solutions
+title: 2 degrees and solutions
 tags: [Environmentalism, Spirituality, Chaos, Order, Ecology]
 ---
 
